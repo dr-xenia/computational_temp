@@ -18,7 +18,7 @@ email:
 description: Computational Neurology at the University of Bonn
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://computationalneurology.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
+twitter_username: dr_xenia
 github_username:
 
 # Build settings
