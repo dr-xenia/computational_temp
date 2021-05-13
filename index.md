@@ -1,4 +1,4 @@
-# Computational Neurology at the University of Bonn
+# Computational Neurology
 Welcome to Computational Neurology at the University of Bonn.
 
 
