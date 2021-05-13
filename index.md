@@ -1,20 +1,11 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# Computational Neurology at the University of Bonn
 
-layout: default
----
+Welcome to the *Computational Neurology Working/Research/Interest Group* at the [University of Bonn](https://neurologie.uni-bonn.de/) and [German Center for Neurodegenerative Diseases (DZNE)](https://dzne.de/en/). The group consists of interdisciplinary researchers from medicine and computer science and has been founded by (has been initiated by, is led by) [Dr. Xenia Kobeleva](https://xenia-kobeleva.com).
 
-# Soon
+## Our Mission/Aims/Goals
 
-A simple *coming soon* page built for [Jekyll](https://jekyllrb.com/docs/).
+Computational Neurology integrates two approaches for understanding and treating neurodegenerative diseases such as [Alzheimer's](https://alz.org/), [ALS](https://als.org/), and [Parkinson's disease](https://parkinson.org/). We apply methods of machine learning in order to analyze big data on brain dynamics and based on this model the mathematical mechanics which underlie neurogenerative diseases. In the Working/Research/Interest Group, we apply and integrate methods on imaging and clinical data (such as fMRT, YYY, and ZZZ) in order to answer clinically relevant questions. We therefore contribute both to the understanding of neurological diseases as well as to the development of new diagnostics and therapies. 
 
-## What's in it?
+## Under Construction
 
-Soon is a single static page with a full-screen image, nothing more. Remember those *under construction* sites? The point is to show a quick message or a temporary contact page to your visitors. Use this template for a few hours to a few days while you are building your site in the background. Since the page comes with a Jekyll environment, you can host it for free on GitHub.
-
-***
-
-## Get started
-
-[README](https://github.com/YJPL/soon/blob/master/README.md) Get [Soon](https://github.com/YJPL/soon/).
+This website is currently still under construction. In the meantime, check out XXX at YYY!
