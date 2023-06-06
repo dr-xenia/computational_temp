@@ -1,3 +1,3 @@
 # Computational Neurology
-Welcome to Computational Neurology at the University of Bonn.
+Welcome to Prof. Dr. Xenia Kobeleva's Computational Neurology Lab at Ruhr University Bochum.
 This website is currently still under construction.
